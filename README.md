@@ -20,5 +20,5 @@ Il team era formato da 5 persone:
 
 ## L'App
 
-<img src="https://github.com/samirsalman/ConfCooperative---Cooperazione-Salute-Hackathon-2019/app.gif" width="300">
+<img src="https://github.com/samirsalman/ConfCooperative---Cooperazione-Salute-Hackathon-2019/blob/master/app.gif" width="300">
   
