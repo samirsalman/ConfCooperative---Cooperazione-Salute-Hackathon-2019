@@ -1,16 +1,20 @@
-# confsalute
+# App Cooperazione Salute
+CooperazioneSalute
 
-ConfSalute
+## Cos'è?
+Progetto vincitore del premio di 1000€ Hackathon ConfCooperative del 23/11/2019 del Gruppo 3. Applicazione di Cooperazione Salute che permette l'identificazione dell'utente eliminando il cartaceo, un sistema di recensione delle strutture convenzionate e la profilazione dell'utente mediante i dati al fine di cercare soluzioni per fornire servizi su misura.
 
-## Getting Started
+## Chi Siamo?
+Il team era formato da 5 persone:
 
-This project is a starting point for a Flutter application.
+  Samir Salman --> Studente Magistrale di Informatica presso L'Università di Roma "Tor Vergata"
+  Marcello Politi --> Studente Magistrale di Informatica presso L'Università di Roma "Tor Vergata"
+  Giuseppe Campana --> Studente Triennale di Informatica presso L'Università di Roma "Tor Vergata"
+  Alessandro Grandoni --> Studente Magistrale Scienze delle Comunicazioni presso L'Università "LUMSA"
+  Emiliano Berti --> Full Stack Developer 
+  
 
-A few resources to get you started if this is your first Flutter project:
+## L'App
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/favicon.ico" width="100">
+  
